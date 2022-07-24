@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acloudtwei" alt="acloudtwei" /></a> </p>
 
-<div align="left"> <img src="https://metrics.lecoq.io/acloudtwei?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
 - 🌱 I’m currently learning **Java,NodeJs,Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/acloudtwei](https://github.com/acloudtwei)
@@ -22,6 +20,8 @@
 - 📫 How to reach me **1559295172@qq.com**
 
 - ⚡ Fun fact **Java,Python**
+
+<div align="rightright"> <img src="https://metrics.lecoq.io/acloudtwei?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 💪 正在学习: 
 
