@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Java,Python**
 
-<div align="rightright"> <img src="https://metrics.lecoq.io/acloudtwei?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="right"> <img src="https://metrics.lecoq.io/acloudtwei?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 💪 正在学习: 
 
