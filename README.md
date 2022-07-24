@@ -5,7 +5,7 @@
  <img src="https://visitor-badge.glitch.me/badge?page_id=acloudtwei" />
 </p>
 
-<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
+<span > <img src="https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java" /> <img src="https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python" /> <img src="https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js" /> </span>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acloudtwei" alt="acloudtwei" /></a> </p>
 
@@ -24,26 +24,18 @@
 💪 正在学习: 
 
 &emsp;&emsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 
 🧠 计划学习:
 
 &emsp;&emsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 
 🧰 常用的工具:
 
@@ -71,5 +63,3 @@
 
 <div align="center"> <img src="https://metrics.lecoq.io/acloudtwei?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acloudtwei&show_icons=true&locale=en" alt="acloudtwei" /></p>
