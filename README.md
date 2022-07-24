@@ -3,7 +3,7 @@
 <!-- 动态打字效果 -->
 <h3 align="center">
   <a href="https://www.aiyunkj.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(Work hard and continue to grow stronger.);欢迎来到我的GitHub~&center=true&size=27">
+    <img src="[https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的GitHu](https://readme-typing-svg.herokuapp.com/?lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub~;System.out.println(%22Become+stronger.%22)%EF%BC%9B)))&center=true&size=27">
   </a>
 </h3>
 
