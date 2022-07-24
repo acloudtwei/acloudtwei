@@ -5,8 +5,6 @@
  <img src="https://visitor-badge.glitch.me/badge?page_id=acloudtwei" />
 </p>
 
-<span > <img src="https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java" /> <img src="https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python" /> <img src="https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js" /> </span>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acloudtwei" alt="acloudtwei" /></a> </p>
 
 - 🌱 I’m currently learning **Java,NodeJs,Python**
@@ -24,9 +22,9 @@
 💪 正在学习: 
 
 &emsp;&emsp;
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
