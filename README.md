@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acloudtwei" alt="acloudtwei" /></a> </p>
 
+<div align="left"> <img src="https://metrics.lecoq.io/acloudtwei?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 - 🌱 I’m currently learning **Java,NodeJs,Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/acloudtwei](https://github.com/acloudtwei)
@@ -60,6 +62,3 @@
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
-
-<div align="center"> <img src="https://metrics.lecoq.io/acloudtwei?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
