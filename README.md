@@ -17,6 +17,10 @@
 
 - ⚡ Fun fact **Java,Python**
 
+
+<div align="center"> <img src="https://metrics.lecoq.io/acloudtwei?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/acloudtwei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acloudtwei" height="30" width="40" /></a>
