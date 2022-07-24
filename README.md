@@ -7,7 +7,7 @@
   </a>
 </h3>
 
-<h3 align="center">Work hard and continue to grow stronger.</h3>
+<!-- <h3 align="center">Work hard and continue to grow stronger.</h3> -->
 
 <p align="left"> 
  <img src="https://img.shields.io/badge/Author%3A-acloudtwei-green?style=plastic&logo=appveyor" alt="acloudtwei" />
