@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm acloudtwei</h1>
+
+<!-- 动态打字效果 -->
+<h3 align="center">
+  <a href="https://www.aiyunkj.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println("Work hard and continue to grow stronger.");欢迎来到我的GitHub~&center=true&size=27">
+  </a>
+</h3>
+
 <h3 align="center">Work hard and continue to grow stronger.</h3>
 
 <p align="left"> 
