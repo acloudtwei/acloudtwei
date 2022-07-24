@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm acloudtwei</h1>
 <h3 align="center">Work hard and continue to grow stronger.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=acloudtwei&label=Profile%20views&color=0e75b6&style=flat" alt="acloudtwei" />
+<p align="left"> 
+ <img src="https://img.shields.io/badge/Author%3A-acloudtwei-green?style=plastic&logo=appveyor" alt="acloudtwei" />
+ <img src="https://komarev.com/ghpvc/?username=acloudtwei&label=Profile%20views&color=0e75b6&style=flat" alt="acloudtwei" />
  <img src="https://visitor-badge.glitch.me/badge?page_id=acloudtwei" />
 </p>
 
