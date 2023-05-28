@@ -11,7 +11,7 @@
 
 <p align="left"> 
  <img src="https://img.shields.io/badge/Author%3A-acloudtwei-green?style=plastic&logo=appveyor" alt="acloudtwei" />
- <img src="https://visitor-badge.glitch.me/badge?page_id=acloudtwei" />
+
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acloudtwei" alt="acloudtwei" /></a> </p>
